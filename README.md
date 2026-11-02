@@ -232,7 +232,7 @@ Oxygen es un proyecto de aprendizaje y **no está preparado para producción tal
 <!-- Añade aquí tu nombre y tu usuario de GitHub (práctica de GitHub, Parte 2). -->
 Irene Cid
 
-Adrián González Blanco (@adriangb46)
+[Adrián González Blanco](https://github.com/adriangb46) (@adriangb46)
 
 ## Licencia y uso
 
